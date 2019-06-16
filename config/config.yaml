@@ -1,0 +1,4 @@
+repo: 
+  gcr:
+    namespaces: 
+      - google_containers
